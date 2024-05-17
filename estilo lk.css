@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+}
+h3#aoba{
+    color: aliceblue;
+    font-size: 50px;
+    }
+
+
+h1#titulo{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    color: aliceblue;
+    font-size: 50px;
+}
+div{
+    text-align: center;
+}
